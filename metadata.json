@@ -1,0 +1,6 @@
+{
+  "name": "MERN Authentication System",
+  "description": "A production-ready secure authentication and authorization module for MERN applications, incorporating JWT-based sessions, cookie-parser, Helmet security headers, password hashing using bcrypt, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
